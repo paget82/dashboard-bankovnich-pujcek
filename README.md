@@ -18,7 +18,7 @@ Cílem projektu je vytvořit vizuálně přehledný a interaktivní dashboard po
 - Vyhodnocovat průměrnou úrokovou sazbu a DTI (Debt-to-Income)
 - Analyzovat trendy podle data vydání půjčky
 - Porovnávat data mezi měsíci (MTD, MoM)
-- Rozlišovat mezi různými stavy půjček (splacené, po splatnosti, defaultní)
+- Rozlišovat mezi různými stavy půjček (splacené, nesplácené, po splatnosti)
 
 ![Dashboard](bank01.png)
 ![Dashboard](bank02.png)
@@ -34,20 +34,20 @@ Cílem projektu je vytvořit vizuálně přehledný a interaktivní dashboard po
 
 
 ##  Požadavky na KPI
-- **Total Loan Applications** (počet žádostí)
+- **Total Loan Applications** - Celkový počet žádostí o půjčku:
   - Počet žádostí od začátku měsíce (MTD)
   - Měsíční změny (MoM)
-- **Total Funded Amount** (vyplacená částka)
+- **Total Funded Amount** - Celková vyplacená částka:
   - Celková vyplacená částka od začátku měsíce (MTD)
   - Měsíční změny (MoM)
-- **Total Amount Received** (přijatá částka)
+- **Total Amount Received** - Celková přijatá částka:
   - Přijatá částka od začátku měsíce (MTD)
   - Měsíční změny (MoM)
-- **Average Interest Rate** (průměrná úroková sazba)
+- **Average Interest Rate** - Průměrná úroková sazba:
   - Průměrná sazba od začátku měsíce (MTD)
   - Měsíční změny (MoM)
-- **Average Debt-to-Income Ratio (DTI)**
-  - Průměrný DTI od začátku měsíce (MTD)
+- **Average Debt-to-Income Ratio (DTI)** - Průmerná hodnota DTI:
+  - Průměrný hodnota DTI od začátku měsíce (MTD)
   - Měsíční změny (MoM)
 
 
@@ -60,7 +60,7 @@ Tabulka obsahuje tyto metriky:
 - Vyplacená částka od začátku měsíce (MTD)
 - Přijatá částka od začátku měsíce (MTD)
 - Průměrná úroková sazba
-- Průměrný DTI
+- Průměrná hodnota DTI
 
 
 
@@ -72,7 +72,7 @@ Umožňuje pochopit rozložení půjček podle různých délek splatnosti.
 - **Employee Length Analysis – _Analýza délky zaměstnání_**  
 Zobrazuje, jak jsou úvěrové metriky rozloženy mezi žadatele s různou délkou pracovního poměru, což pomáhá posoudit vliv pracovní historie na žádosti o půjčku.
 - **Loan Purpose Breakdown – _Rozdělení účelu půjček_**  
-Nabízí vizuální rozdělení úvěrových metrik podle uvedených účelů půjček a pomáhá pochopit hlavní důvody, proč si žadatelé půjčují.
+Nabízí vizuální rozdělení úvěrových metrik podle uvedených účelů půjček a pomáhá pochopit hlavní důvody žádosti o půjčku.
 - **Home Ownership Analysis – _Analýza vlastnictví nemovitosti_**  
 Poskytuje hierarchický pohled na to, jak vlastnictví nemovitosti ovlivňuje žádosti o půjčku a jejich schválení.
 
