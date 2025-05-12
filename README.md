@@ -5,7 +5,7 @@ Společnost poskytující osobní půjčky potřebuje přehledné a interaktivn�
 Vzhledem k velkému množství žádostí a financovaných částek je důležité mít nástroj umožňující sledování klíčových metrik a trendů v čase.
 
 ###  Soubory ke stažení
--  [Power BI report](Bank%20Loan%20Report.pbix) – Dashboard bankovních půjček v Power BI
+-  [Power BI report](Dashboard%20bankovních%20půjček.pbix) – Dashboard bankovních půjček v Power BI
 -  [PDF](Dashboard%20bankovních%20půjček%20SQL%20dotazy.pdf) – Analýza pomocí SQL dotazů
 -  [PDF](Dashboard%20bankovních%20půjček%20postup.pdf) – Postup vypracování projektu
 -  [CSV](bank_loan_data.csv) – Dataset
