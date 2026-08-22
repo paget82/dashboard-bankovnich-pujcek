@@ -30,7 +30,7 @@ Cílem projektu je vytvořit vizuálně přehledný a interaktivní dashboard po
 
 
 ## Použité nástroje a technologie
-- Excel, SQL, Power BI
+- SQL, Power BI
 
 
 ##  Požadavky na KPI
