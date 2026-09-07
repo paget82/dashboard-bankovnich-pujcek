@@ -44,7 +44,7 @@ The dashboard gives management an at-a-glance view of loan portfolio performance
 ## How to run
 1. Open `Bank Loan Dashboard.pbix` in Power BI Desktop.
 2. Refresh the data connection to `bank_loan_data.csv` if needed.
-3. Review the accompanying PDFs for the underlying SQL queries and the step-by-step build process.
+3. Review the accompanying PDFs for the underlying SQL queries.
 
 ## Files
 - [CSV](bank_loan_data.csv) – dataset
