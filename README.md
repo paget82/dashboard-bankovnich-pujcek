@@ -1,4 +1,6 @@
-# Project: Bank Loan Dashboard
+# Bank Loan Dashboard
+*Originally published as: Dashboard bankovních půjček*
+
 
 ## Problem
 A personal loan company needed a clear, interactive way to track and analyze its loan portfolio. With a large volume of applications and funded amounts, management lacked an efficient tool to monitor key metrics and trends over time.
