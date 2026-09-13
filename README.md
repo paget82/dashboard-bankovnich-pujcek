@@ -48,7 +48,7 @@ The dashboard gives management an at-a-glance view of loan portfolio performance
 
 ## Files
 - [CSV](bank_loan_data.csv) – dataset
-- [PDF](Bank%20Loan%20Dashboard%20SQL%20queries.pdf) – SQL query analysis
+- [SQL](bank_loan_data.sql) – SQL query analysis
 - [Power BI report](Bank%20Loan%20Dashboard.pbix) – the Bank Loan Dashboard in Power BI
 
 
