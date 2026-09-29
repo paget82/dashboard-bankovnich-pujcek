@@ -14,7 +14,7 @@ I built an interactive Power BI dashboard that gives management a complete overv
 - DAX functions: SUM, COUNT, IF, AVERAGE, TOTALYTD, TOTALMTD, CALCULATE, SAMEPERIODLASTYEAR, CONCATENATE, DATESMTD, DATEADD
 
 ## Dataset
-- Source: bank_loan_data.csv, bank_loan_data.xlsx
+- Source: bank_loan_data.csv
 - Size: 38,576 records
 
 ## Process
