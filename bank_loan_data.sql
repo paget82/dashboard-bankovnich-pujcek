@@ -189,7 +189,7 @@ ORDER BY emp_length;
 
 -- PURPOSE
 SELECT
-    purpose AS PURPOSE,
+    purpose AS Purpose,
     COUNT(id) AS Total_Loan_Applications,
     SUM(loan_amount) AS Total_Funded_Amount,
     SUM(total_payment) AS Total_Amount_Received
