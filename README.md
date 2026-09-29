@@ -3,7 +3,7 @@
 
 
 ## Problem
-A personal loan company needed a clear, interactive way to track and analyze its loan portfolio. With a large volume of applications and funded amounts, management lacked an efficient tool to monitor key metrics and trends over time.
+A bank needed a clear, interactive way to track and analyze its loan portfolio. With a large volume of applications and funded amounts, management lacked an efficient tool to monitor key metrics and trends over time.
 
 ## Solution
 I built an interactive Power BI dashboard that gives management a complete overview of the loan portfolio, including total applications, funded amounts, received payments, interest rates, and DTI (Debt-to-Income) ratio. The dashboard supports trend analysis over time, month-to-date and month-over-month comparisons, and breakdowns by loan status, term, purpose, employment length, and home ownership. SQL was used for the underlying data analysis prior to building the report.
